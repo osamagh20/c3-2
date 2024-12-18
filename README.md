@@ -1,4 +1,4 @@
-# Osama Alghmadi - capstone -3
+# Osama Alghamdi - capstone -3
 ### Models : 
 1- Sponsor.
 2- sponsorShip.

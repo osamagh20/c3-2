@@ -27,8 +27,6 @@
 4- EventParticipationRequestController.
 5- AdminController.
 
-### ApiResponse , ApiException , ControllerAdvice 
-
 ### Endpoints : 
 
 1- sponsorShipRequest -> SponsorController
